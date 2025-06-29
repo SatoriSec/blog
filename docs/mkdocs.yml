@@ -1,0 +1,39 @@
+site_name: Raj Pandurangan
+site_url: https://mydomain.org/mysite
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+  toc_integrate: false
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Contact: contact.md
+  - Guides:
+      - Getting Started: guides/getting-started.md
+      - Advanced Topics: guides/advanced.md
+  - Blog: blog/
+
+plugins:
+  - search
+  - blog:
+      summary: 50  
+
+
+extra_css:
+  - styles/extra.css
