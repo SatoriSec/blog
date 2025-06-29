@@ -24,9 +24,9 @@ nav:
   - Home: index.md
   - About: about.md
   - Contact: contact.md
-  - Guides:
-      - Getting Started: guides/getting-started.md
-      - Advanced Topics: guides/advanced.md
+  - CDK Python - 30 day challenge:
+      - Agenda: cdkpython/agenda.md
+      - Day1 - Introduction and Setup (Ubuntu): cdkpython/day1.md
   - Blog: blog/
 
 plugins:
