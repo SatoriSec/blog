@@ -5,7 +5,6 @@ theme:
   name: material
   features:
     - navigation.tabs
-  toc_integrate: false
   palette:
     - scheme: slate
       primary: indigo
