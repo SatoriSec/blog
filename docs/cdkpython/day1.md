@@ -1,5 +1,3 @@
-## Day 1: Introduction and Setup (Ubuntu)
-
 ### Background
 
 Welcome to your AWS CDK with Python journey!

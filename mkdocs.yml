@@ -26,6 +26,7 @@ nav:
   - CDK Python - 30 day challenge:
       - Agenda: cdkpython/agenda.md
       - Day1 - Introduction and Setup (Ubuntu): cdkpython/day1.md
+      - Day2 - Your First CDK App: cdkpython/day2.md
   - Blog: blog/
 
 plugins:
