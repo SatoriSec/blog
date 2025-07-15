@@ -32,8 +32,6 @@ nav:
   - Blog: blog/
 
 plugins:
-  - search
-  - blog:
-      summary: 50  
+  - search 
 extra_css:
   - styles/extra.css
