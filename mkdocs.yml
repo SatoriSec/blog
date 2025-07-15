@@ -21,7 +21,7 @@ theme:
 
 nav:
   - Home: index.md
-  - AWS External Surface:
+  - AWS External Scan Tool :
       - Index: awsorgscan/index.md
       - Getting Started: awsorgscan/getting-started.md
       - Building: awsorgscan/building.md
