@@ -6,7 +6,10 @@ This is my personal space to be creative, learn, and practice. Over the years, I
 
 With 25+ years in cybersecurity and cloud architecture, I’ve helped organizations shape their threat and vulnerability management programs, led red team operations, guided secure AWS implementations, and designed strategies that balance security with business needs. I’ve also trained developers on secure coding practices and led teams delivering assessments at scale — across industries like finance, healthcare, and technology.
 
-You'll find ideas here ranging from security and product strategy to hands-on experiments, tool evaluations, and personal observations from the field.
+Here, you’ll explore a variety of topics, including Golang, Rust, Python programming, security tools, AWS implementations, and the AWS Cloud Development Kit (CDK). You'll also learn about automation and infrastructure as code, helping you streamline your workflows and manage cloud environments more efficiently.
+This blog is designed to be a resource for both beginners and experienced developers, offering practical tutorials and insights to enhance your skills.
+Disclaimer: The code samples provided are for learning purposes only and are not production-ready. Use them at your own risk.
+Happy learning!
 
 ⚠️ **Disclaimer:** This blog is a personal learning and experimentation space. Please validate and test any tools or techniques in your own environment before using them elsewhere.
 
