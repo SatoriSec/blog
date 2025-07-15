@@ -2,7 +2,7 @@
 slug: "scenario-4-granting-s3-bucket-access-invoke-lambda-function-permission-to-ec2"
 title: |
   Scenario 4 - Granting S3 bucket access & Invoke Lambda function permission to EC2
-date: 2022-04-11
+date: 2022-12-20
 tags: ['cloud', 'dynamodb', 'iam', 's3', 'aws']
 ---
 

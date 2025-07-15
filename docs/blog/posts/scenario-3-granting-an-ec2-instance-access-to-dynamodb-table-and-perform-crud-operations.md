@@ -2,7 +2,7 @@
 slug: "scenario-3-granting-an-ec2-instance-access-to-dynamodb-table-and-perform-crud-operations"
 title: |
   Scenario 3 - Granting an EC2 Instance access to DynamoDB Table and perform CRUD Operations
-date: 2023-02-07
+date: 2022-12-19
 tags: ['iam', 'dynamodb', 'aws', 'cloud']
 ---
 
