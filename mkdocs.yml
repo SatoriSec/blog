@@ -21,8 +21,6 @@ theme:
 
 nav:
   - Home: index.md
-  - About: about.md
-  - Contact: contact.md
   - AWS External Surface:
       - Index: awsorgscan/index.md
       - Getting Started: awsorgscan/getting-started.md
