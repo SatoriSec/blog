@@ -1,7 +1,8 @@
 ---
-slug: from-layoff-to-new-beginning-a-guide-to-finding-meaning-and-purpose-in-job-loss
-title: From Layoff to New Beginning: A Guide to Finding Meaning and Purpose in Job Loss
-date: 2022-02-05
+slug: "from-layoff-to-new-beginning-a-guide-to-finding-meaning-and-purpose-in-job-loss"
+title: |
+  From Layoff to New Beginning: A Guide to Finding Meaning and Purpose in Job Loss
+date: 2022-09-11
 tags: ['aws']
 ---
 

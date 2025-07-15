@@ -1,7 +1,8 @@
 ---
-slug: setting-up-python-playground
-title: Setting up Python Playground
-date: 2021-09-21
+slug: "setting-up-python-playground"
+title: |
+  Setting up Python Playground
+date: 2021-12-21
 tags: ['flask', 'python']
 ---
 

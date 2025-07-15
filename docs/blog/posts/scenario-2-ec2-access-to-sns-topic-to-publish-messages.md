@@ -1,7 +1,8 @@
 ---
-slug: scenario-2-ec2-access-to-sns-topic-to-publish-messages
-title: Scenario 2 - EC2 Access to SNS topic to publish messages
-date: 2023-01-19
+slug: "scenario-2-ec2-access-to-sns-topic-to-publish-messages"
+title: |
+  Scenario 2 - EC2 Access to SNS topic to publish messages
+date: 2023-08-06
 tags: ['iam', 'aws', 'cloud']
 ---
 

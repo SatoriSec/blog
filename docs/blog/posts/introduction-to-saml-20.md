@@ -1,7 +1,8 @@
 ---
-slug: introduction-to-saml-20
-title: Introduction to SAML 2.0
-date: 2022-07-09
+slug: "introduction-to-saml-20"
+title: |
+  Introduction to SAML 2.0
+date: 2023-06-25
 tags: ['aws']
 ---
 

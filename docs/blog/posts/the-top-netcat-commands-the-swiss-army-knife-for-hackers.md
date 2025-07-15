@@ -1,7 +1,8 @@
 ---
-slug: the-top-netcat-commands-the-swiss-army-knife-for-hackers
-title: The Top Netcat Commands: The Swiss Army Knife for Hackers"
-date: 2022-03-07
+slug: "the-top-netcat-commands-the-swiss-army-knife-for-hackers"
+title: |
+  The Top Netcat Commands: The Swiss Army Knife for Hackers"
+date: 2022-03-19
 tags: ['aws']
 ---
 

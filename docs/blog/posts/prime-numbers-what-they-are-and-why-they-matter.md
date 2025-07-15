@@ -1,7 +1,8 @@
 ---
-slug: prime-numbers-what-they-are-and-why-they-matter
-title: Prime Numbers: What They Are and Why They Matter
-date: 2022-11-16
+slug: "prime-numbers-what-they-are-and-why-they-matter"
+title: |
+  Prime Numbers: What They Are and Why They Matter
+date: 2021-12-28
 tags: ['aws']
 ---
 

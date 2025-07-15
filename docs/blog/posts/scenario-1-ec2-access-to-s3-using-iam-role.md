@@ -1,7 +1,8 @@
 ---
-slug: scenario-1-ec2-access-to-s3-using-iam-role
-title: Scenario 1 - EC2 Access to S3 using IAM Role
-date: 2023-10-04
+slug: "scenario-1-ec2-access-to-s3-using-iam-role"
+title: |
+  Scenario 1 - EC2 Access to S3 using IAM Role
+date: 2021-01-15
 tags: ['iam', 's3', 'aws', 'cloud']
 ---
 

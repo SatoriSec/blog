@@ -1,7 +1,8 @@
 ---
-slug: the-hunt-for-prime-numbers-an-overview-of-various-techniques
-title: The Hunt for Prime Numbers: An Overview of Various Techniques
-date: 2023-03-02
+slug: "the-hunt-for-prime-numbers-an-overview-of-various-techniques"
+title: |
+  The Hunt for Prime Numbers: An Overview of Various Techniques
+date: 2022-06-28
 tags: ['aws']
 ---
 

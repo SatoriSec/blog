@@ -1,7 +1,8 @@
 ---
-slug: paper-and-pencil-to-improve-memory
-title: Paper and Pencil to improve Memory
-date: 2022-09-24
+slug: "paper-and-pencil-to-improve-memory"
+title: |
+  Paper and Pencil to improve Memory
+date: 2022-05-05
 tags: ['cloud']
 ---
 

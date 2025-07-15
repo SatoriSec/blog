@@ -1,7 +1,8 @@
 ---
-slug: live-free-gain-expertise-in-aws-iam-get-control-of-cloud-security-a59df370f1f5
-title: Live & Free — Gain expertise in AWS IAM — Get Control of Cloud Security
-date: 2021-04-14
+slug: "live-free-gain-expertise-in-aws-iam-get-control-of-cloud-security-a59df370f1f5"
+title: |
+  Live & Free — Gain expertise in AWS IAM — Get Control of Cloud Security
+date: 2022-08-26
 tags: ['iam', 'aws', 'cloud']
 ---
 

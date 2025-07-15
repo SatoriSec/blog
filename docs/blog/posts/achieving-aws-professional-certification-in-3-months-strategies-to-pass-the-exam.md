@@ -1,7 +1,8 @@
 ---
-slug: achieving-aws-professional-certification-in-3-months-strategies-to-pass-the-exam
-title: Achieving AWS Professional Certification in 3 Months: Strategies to Pass the Exam
-date: 2023-03-14
+slug: "achieving-aws-professional-certification-in-3-months-strategies-to-pass-the-exam"
+title: |
+  Achieving AWS Professional Certification in 3 Months: Strategies to Pass the Exam
+date: 2023-04-20
 tags: ['cloud', 's3', 'aws']
 ---
 

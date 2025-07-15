@@ -1,7 +1,8 @@
 ---
-slug: 5-reasons-why-you-should-start-taking-cold-showers
-title: 5 Reasons Why You Should Start Taking Cold Showers
-date: 2022-08-14
+slug: "5-reasons-why-you-should-start-taking-cold-showers"
+title: |
+  5 Reasons Why You Should Start Taking Cold Showers
+date: 2021-08-27
 tags: ['aws']
 ---
 

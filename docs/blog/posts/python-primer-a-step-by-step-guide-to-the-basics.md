@@ -1,7 +1,8 @@
 ---
-slug: python-primer-a-step-by-step-guide-to-the-basics
-title: Python Primer: A Step-by-Step Guide to the Basics
-date: 2023-09-17
+slug: "python-primer-a-step-by-step-guide-to-the-basics"
+title: |
+  Python Primer: A Step-by-Step Guide to the Basics
+date: 2022-11-08
 tags: ['python']
 ---
 

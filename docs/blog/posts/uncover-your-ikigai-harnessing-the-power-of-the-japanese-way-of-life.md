@@ -1,7 +1,8 @@
 ---
-slug: uncover-your-ikigai-harnessing-the-power-of-the-japanese-way-of-life
-title: Uncover Your Ikigai: Harnessing the Power of the Japanese Way of Life
-date: 2023-12-09
+slug: "uncover-your-ikigai-harnessing-the-power-of-the-japanese-way-of-life"
+title: |
+  Uncover Your Ikigai: Harnessing the Power of the Japanese Way of Life
+date: 2023-11-01
 tags: ['aws']
 ---
 

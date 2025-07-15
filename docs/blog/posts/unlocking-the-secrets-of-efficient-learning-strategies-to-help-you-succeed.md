@@ -1,7 +1,8 @@
 ---
-slug: unlocking-the-secrets-of-efficient-learning-strategies-to-help-you-succeed
-title: Unlocking the Secrets of Efficient Learning: Strategies to Help You Succeed
-date: 2023-12-04
+slug: "unlocking-the-secrets-of-efficient-learning-strategies-to-help-you-succeed"
+title: |
+  Unlocking the Secrets of Efficient Learning: Strategies to Help You Succeed
+date: 2023-10-14
 tags: ['aws']
 ---
 

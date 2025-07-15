@@ -1,7 +1,8 @@
 ---
-slug: unlock-the-full-potential-of-your-blogging-with-hashnode-the-one-stop-shop-for-developers
-title: Unlock the Full Potential of Your Blogging with Hashnode: The One-Stop Shop for Developers
-date: 2023-01-04
+slug: "unlock-the-full-potential-of-your-blogging-with-hashnode-the-one-stop-shop-for-developers"
+title: |
+  Unlock the Full Potential of Your Blogging with Hashnode: The One-Stop Shop for Developers
+date: 2022-04-29
 tags: ['aws']
 ---
 

@@ -1,7 +1,8 @@
 ---
-slug: polymath-vs-specialization-6bffe375d4c
-title: Polymath vs Specialization
-date: 2021-09-12
+slug: "polymath-vs-specialization-6bffe375d4c"
+title: |
+  Polymath vs Specialization
+date: 2022-03-09
 tags: ['aws']
 ---
 

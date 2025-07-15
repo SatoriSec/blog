@@ -1,7 +1,8 @@
 ---
-slug: unlock-the-power-of-meditation-with-silva-discover-mental-clarity-and-inner-peace
-title: Unlock the Power of Meditation with Silva: Discover Mental Clarity and Inner Peace
-date: 2022-05-08
+slug: "unlock-the-power-of-meditation-with-silva-discover-mental-clarity-and-inner-peace"
+title: |
+  Unlock the Power of Meditation with Silva: Discover Mental Clarity and Inner Peace
+date: 2023-04-06
 tags: ['aws']
 ---
 

@@ -1,7 +1,8 @@
 ---
-slug: create-a-morning-routine-for-a-happier-and-healthier-life
-title: Create a Morning Routine for a Happier and Healthier Life
-date: 2021-04-03
+slug: "create-a-morning-routine-for-a-happier-and-healthier-life"
+title: |
+  Create a Morning Routine for a Happier and Healthier Life
+date: 2022-12-26
 tags: ['aws']
 ---
 

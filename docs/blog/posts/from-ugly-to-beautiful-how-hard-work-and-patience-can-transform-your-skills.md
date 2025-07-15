@@ -1,7 +1,8 @@
 ---
-slug: from-ugly-to-beautiful-how-hard-work-and-patience-can-transform-your-skills
-title: From Ugly to Beautiful: How Hard Work and Patience Can Transform Your Skills
-date: 2022-04-11
+slug: "from-ugly-to-beautiful-how-hard-work-and-patience-can-transform-your-skills"
+title: |
+  From Ugly to Beautiful: How Hard Work and Patience Can Transform Your Skills
+date: 2023-05-15
 tags: ['aws']
 ---
 

@@ -1,7 +1,8 @@
 ---
-slug: the-top-10-nmap-commands-you-need-to-know
-title: The Top 10 Nmap Commands You Need to Know
-date: 2021-01-10
+slug: "the-top-10-nmap-commands-you-need-to-know"
+title: |
+  The Top 10 Nmap Commands You Need to Know
+date: 2023-10-09
 tags: ['aws']
 ---
 

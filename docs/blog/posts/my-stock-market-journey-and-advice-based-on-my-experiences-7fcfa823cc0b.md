@@ -1,7 +1,8 @@
 ---
-slug: my-stock-market-journey-and-advice-based-on-my-experiences-7fcfa823cc0b
-title: My Stock Market journey and advice based on my experiences
-date: 2021-08-13
+slug: "my-stock-market-journey-and-advice-based-on-my-experiences-7fcfa823cc0b"
+title: |
+  My Stock Market journey and advice based on my experiences
+date: 2021-08-31
 tags: ['aws']
 ---
 

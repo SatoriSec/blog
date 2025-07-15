@@ -1,7 +1,8 @@
 ---
-slug: breaking-the-cycle-overcoming-the-crisis-of-inaction
-title: Breaking the Cycle: Overcoming the Crisis of Inaction
-date: 2021-12-02
+slug: "breaking-the-cycle-overcoming-the-crisis-of-inaction"
+title: |
+  Breaking the Cycle: Overcoming the Crisis of Inaction
+date: 2021-08-12
 tags: ['eks']
 ---
 

@@ -1,7 +1,8 @@
 ---
-slug: understanding-iam
-title: Understanding IAM
-date: 2023-07-11
+slug: "understanding-iam"
+title: |
+  Understanding IAM
+date: 2022-12-16
 tags: ['iam', 'aws']
 ---
 

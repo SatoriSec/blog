@@ -1,7 +1,8 @@
 ---
-slug: relaxation-techniques-reaching-new-levels-of-zen
-title: Relaxation Techniques: Reaching New Levels of Zen"
-date: 2021-04-27
+slug: "relaxation-techniques-reaching-new-levels-of-zen"
+title: |
+  Relaxation Techniques: Reaching New Levels of Zen"
+date: 2022-08-27
 tags: ['aws']
 ---
 

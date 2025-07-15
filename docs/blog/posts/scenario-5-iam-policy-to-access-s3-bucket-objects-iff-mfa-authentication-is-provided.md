@@ -1,7 +1,8 @@
 ---
-slug: scenario-5-iam-policy-to-access-s3-bucket-objects-iff-mfa-authentication-is-provided
-title: Scenario 5 - IAM policy to access S3 bucket objects iff MFA Authentication is provided
-date: 2021-04-29
+slug: "scenario-5-iam-policy-to-access-s3-bucket-objects-iff-mfa-authentication-is-provided"
+title: |
+  Scenario 5 - IAM policy to access S3 bucket objects iff MFA Authentication is provided
+date: 2023-04-06
 tags: ['iam', 's3', 'dynamodb', 'aws']
 ---
 
