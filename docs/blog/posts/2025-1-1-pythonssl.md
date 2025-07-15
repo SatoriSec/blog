@@ -9,6 +9,8 @@ tags: [python, openssl]
 
 To create a Certificate Authority (CA) and generate server using OpenSSL, followed by implementing a Python server and client that use these certificates for secure communication, you can follow these steps:
 
+<!-- more -->
+
 ### Step 1: Install OpenSSL 
 
 If OpenSSL is not installed, you can install it using:

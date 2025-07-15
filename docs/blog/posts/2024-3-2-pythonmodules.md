@@ -7,6 +7,8 @@ tags: [python]
 
 Simple Python project structure to demonstrate how to use modules, classes, and import them across different files and folders.
 
+<!-- more -->
+
 ### Project Structure 
 
 ```markdown

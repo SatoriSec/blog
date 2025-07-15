@@ -8,7 +8,7 @@ tags: [docusaurus]
 ## Creating a site using Docusaurus
 
 Creating a personal documentation site is a great way to organize your knowledge, share insights, and build an online presence. Using Docusaurus, a modern static site generator, you can quickly set up a professional-looking site with ease. In this guide, we'll walk you through the steps to create and deploy your own documentation site using Docusaurus on GitLab, making your content accessible to the world.
-
+<!-- more -->
 ### Step 1: Create a Repository on GitLab 
  
 1. **Login to GitLab:**  
