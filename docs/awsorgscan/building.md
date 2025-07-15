@@ -13,9 +13,4 @@ go build -o scanner ./cmd/scanner
 
 ## Linting and Testing
 
-Use standard Go tools:
-
-```bash
-go vet ./...
-go test ./...
-```
+TODO
