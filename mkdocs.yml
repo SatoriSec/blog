@@ -28,13 +28,13 @@ nav:
       - 1 - Introduction and Setup (Ubuntu): cdkpython/day1.md
       - 2 - Your First CDK App: cdkpython/day2.md
   - AWS External Surface:
-      - Index: Awsorgscan/index.md
-      - Getting Started: Awsorgscan/getting-started.md
-      - Building: Awsorgscan/building.md
-      - Services: Awsorgscan/services.md
-      - Output Format: Awsorgscan/output-format.md
-      - Sample Output: Awsorgscan/sample-output.md
-      - FAQ: Awsorgscan/faq.md
+      - Index: awsorgscan/index.md
+      - Getting Started: awsorgscan/getting-started.md
+      - Building: awsorgscan/building.md
+      - Services: awsorgscan/services.md
+      - Output Format: awsorgscan/output-format.md
+      - Sample Output: awsorgscan/sample-output.md
+      - FAQ: awsorgscan/faq.md
   - Blog: blog/
 
 plugins:
