@@ -2,6 +2,16 @@
 
 A fast, concurrent scanner for discovering publicly accessible resources across AWS accounts and regions.
 
+The **AWS Org Public IP Scanner** is built in **Go (Golang)**, leveraging its lightweight concurrency primitives — **goroutines** — to achieve blazing-fast performance.
+
+### 🧵 Full Parallel Execution Flow
+
+This scanner employs **three layers of concurrency**:
+
+1. **Account-level:** A separate goroutine is launched for each AWS account (org scope or single)  
+2. **Region-level:** Within each account goroutine, all enabled AWS regions are scanned in parallel  
+3. **Service-level:** Inside each region, every service (EC2, EIP, ELB, S3, CloudFront, Route 53, etc.) is scanned concurrently
+
 This tool scans:
 - EC2 instances with public IPs
 - Load Balancers
