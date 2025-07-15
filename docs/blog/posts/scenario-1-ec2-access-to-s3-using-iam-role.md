@@ -8,13 +8,13 @@ tags: ['iam','s3', 'aws', 'cloud']
 
 ### Scenario:
 
-<!-- more -->
+
 
 
 
 
 An application running on an Amazon EC2 instance needs to access an Amazon S3 bucket to read and write files. However, you do not want to hardcode the AWS access key and secret access key in the EC2 instance.
-
+<!-- more -->
 
 ### Solution:
 

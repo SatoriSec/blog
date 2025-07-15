@@ -8,13 +8,13 @@ tags: ['iam', 'dynamodb', 'aws', 'cloud']
 
 ### Scenario:
 
-<!-- more -->
+
 
 
 
 
 Creating an IAM policy that grants access to an Amazon DynamoDB table for an Amazon Elastic Compute Cloud (EC2) and also performs CRUD operations using AWS-CLI.
-
+<!-- more -->
 
 ### Solution:
 

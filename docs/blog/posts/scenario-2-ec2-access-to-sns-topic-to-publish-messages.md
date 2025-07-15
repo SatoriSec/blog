@@ -8,13 +8,13 @@ tags: ['iam', 'aws', 'cloud']
 
 ### Scenario:
 
-<!-- more -->
+
 
 
 
 
 You want to set up an application running on Amazon Elastic Compute Cloud (EC2) to be able to publish messages to Amazon Simple Notification Service (SNS) topic without hardcoding AWS access key & secret access key.
-
+<!-- more -->
 
 ### Solution:
 

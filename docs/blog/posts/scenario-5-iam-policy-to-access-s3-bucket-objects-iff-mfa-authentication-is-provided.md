@@ -8,12 +8,12 @@ tags: ['iam', 's3', 'dynamodb', 'aws']
 
 ### Scenario:
 
-<!-- more -->
 
 
 
 
 Create an IAM policy to access Amazon Simple Storage Service (S3) bucket objects iff AWS IAM-Multi-Factor Authentication (MFA) is provided.
+<!-- more -->
 
 
 ### Solution:

@@ -8,13 +8,13 @@ tags: ['cloud', 'dynamodb', 'iam', 's3', 'aws']
 
 ### Scenario:
 
-<!-- more -->
+
 
 
 
 
 Create an IAM policy that grants read-only access to an Amazon S3 bucket and also invoke a Lambda function from EC2 Instance.
-
+<!-- more -->
 
 ### Solution:
 
