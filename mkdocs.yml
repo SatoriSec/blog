@@ -25,15 +25,21 @@ nav:
   - Contact: contact.md
   - CDK Python - 30 day challenge:
       - Agenda: cdkpython/agenda.md
-      - Day1 - Introduction and Setup (Ubuntu): cdkpython/day1.md
-      - Day2 - Your First CDK App: cdkpython/day2.md
+      - 1 - Introduction and Setup (Ubuntu): cdkpython/day1.md
+      - 2 - Your First CDK App: cdkpython/day2.md
+  - AWS External Surface
+      - Index: Awsorgscan/index.md
+      - Getting Started: Awsorgscan/getting-started.md
+      - Building: Awsorgscan/building.md
+      - Services: Awsorgscan/services.md
+      - Output Format: Awsorgscan/output-format.md
+      - Sample Output: Awsorgscan/sample-output.md
+      - FAQ: Awsorgscan/faq.md
   - Blog: blog/
 
 plugins:
   - search
   - blog:
       summary: 50  
-
-
 extra_css:
   - styles/extra.css
