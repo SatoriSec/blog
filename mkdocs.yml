@@ -27,7 +27,7 @@ nav:
       - Agenda: cdkpython/agenda.md
       - 1 - Introduction and Setup (Ubuntu): cdkpython/day1.md
       - 2 - Your First CDK App: cdkpython/day2.md
-  - AWS External Surface
+  - AWS External Surface:
       - Index: Awsorgscan/index.md
       - Getting Started: Awsorgscan/getting-started.md
       - Building: Awsorgscan/building.md
