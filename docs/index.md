@@ -1,6 +1,6 @@
 # Welcome!
 
-Hi — I'm Raj Ganesh, and welcome to my blog.
+Hi — I'm RajGanesh, and welcome to my blog.
 
 This is my personal space to be creative, learn, and practice. Over the years, I’ve worked at the intersection of cybersecurity, cloud, and product — partnering with Fortune 100 companies to solve some of their most complex security challenges.
 

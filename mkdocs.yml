@@ -21,14 +21,15 @@ theme:
 
 nav:
   - Home: index.md
-  - AWS External Scan Tool :
-      - Index: awsorgscan/index.md
-      - Getting Started: awsorgscan/getting-started.md
-      - Building: awsorgscan/building.md
-      - Services: awsorgscan/services.md
-      - Output Format: awsorgscan/output-format.md
-      - Sample Output: awsorgscan/sample-output.md
-      - FAQ: awsorgscan/faq.md
+  - Security Tools :
+    - AWS Public IPs - Resources :
+        - Index: awsorgscan/index.md
+        - Getting Started: awsorgscan/getting-started.md
+        - Building: awsorgscan/building.md
+        - Services: awsorgscan/services.md
+        - Output Format: awsorgscan/output-format.md
+        - Sample Output: awsorgscan/sample-output.md
+        - FAQ: awsorgscan/faq.md
   - Blog: blog/
 
 plugins:
