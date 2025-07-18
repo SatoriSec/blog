@@ -13,6 +13,8 @@ Steampipe is an open-source tool that lets you **query cloud infrastructure, Saa
 
 Instead of writing custom scripts to gather data from cloud services like AWS, you can use SQL queries directly—treating your cloud accounts like a database.
 
+<!-- more -->
+
 ---
 
 ## Why Use Steampipe for AWS?
