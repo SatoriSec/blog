@@ -1,7 +1,9 @@
+---
 slug: steampipe
 title: Getting Started with Steampipe + AWS on Ubuntu
 date: 2025-07-15
 tags: [steampipe]
+---
 
 # Getting Started with Steampipe + AWS on Ubuntu
 
