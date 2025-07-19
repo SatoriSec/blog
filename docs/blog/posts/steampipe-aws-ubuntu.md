@@ -146,13 +146,30 @@ Try:
 
 ```sql
 -- List EC2 instances
-select instance_id, instance_type, state
-from aws_ec2_instance;
+select
+  instance_id,
+  instance_type,
+  instance_state,
+  public_ip_address,
+  placement_availability_zone,
+  launch_time,
+  title as name
+from aws_ec2_instance
+where instance_state = 'running';
+
+
+
 
 -- List publicly accessible S3 buckets
-select bucket_name, acl
-from aws_s3_bucket
-where acl like '%PUBLIC%';
+select
+  name,
+  region,
+  account_id,
+  bucket_policy_is_public
+from
+  aws_s3_bucket;
+
+
 ```
 
 ---
