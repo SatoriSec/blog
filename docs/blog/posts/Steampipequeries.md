@@ -13,9 +13,7 @@ Each query targets a specific AWS resource like IAM, EC2, S3, VPCs, and more.
 
 These queries help you inspect AWS resources using Steampipe.
 
-# AWS Steampipe SQL Queries
-
-These queries help you inspect AWS resources using Steampipe.
+<!-- more -->
 
 ## List IAM Users
 
