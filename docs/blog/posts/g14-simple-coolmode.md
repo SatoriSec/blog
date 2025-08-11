@@ -13,6 +13,7 @@ tags:
 I was never a gamer. But I bought a gaming laptop (ASUS ROG Zephyrus G14) because it had good specs for personal stuff.  
 I didn’t realize it would run hot even when I was just coding or doing normal stuff.  
 
+<!-- more -->
 So I was researching for ways to make it run cooler and the below settings could help to some extent so want to try for a few days.
 
 - Turn off the NVIDIA GPU and use the integrated graphics.  
