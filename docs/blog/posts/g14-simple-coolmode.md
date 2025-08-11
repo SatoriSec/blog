@@ -10,10 +10,11 @@ tags:
   - power-management
 ---
 
-I was never a gamer. But I bought a gaming laptop (ASUS ROG Zephyrus G14) because it had good specs for work.  
-I didn’t realize it would run hot even when I was just coding or doing normal admin tasks.  
+I was never a gamer. But I bought a gaming laptop (ASUS ROG Zephyrus G14) because it had good specs for personal stuff.  
+I didn’t realize it would run hot even when I was just coding or doing normal stuff.  
 
-So I looked for ways to make it run cooler:  
+So I was researching for ways to make it run cooler and the below settings could help to some extent so want to try for a few days.
+
 - Turn off the NVIDIA GPU and use the integrated graphics.  
 - Use a quiet power profile.  
 - Lower the CPU max frequency.  
@@ -108,4 +109,4 @@ cpupower frequency-info  # powersave, max ~2.2GHz
 nvidia-smi               # No devices found
 ```
 
-Now the laptop stays cool for normal work.
+Will update on how it goes in a few days.
