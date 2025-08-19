@@ -10,6 +10,7 @@ tags: [github]
 ## Summary
 
 This document shows how to take a local folder that contains a project and check it into GitHub using Git. It works for any project — code, config, data, etc.
+<!-- more -->
 
 ## Use Case
 
